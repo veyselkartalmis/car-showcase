@@ -189,6 +189,7 @@
 /* START: searchbar styles */
 .searchbar {
   @apply flex items-center justify-start max-sm:flex-col w-full relative max-sm:gap-4 max-w-3xl;
+  gap: 20px;
 }
 
 .searchbar__item {
