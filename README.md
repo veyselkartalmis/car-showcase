@@ -1,7 +1,8 @@
 # Car Showcase
-## [Live Site]()
+## [Live Site](https://car-showcase-veyselkartalmis.vercel.app/)
 <br>
-App preview
+## App preview
+<br><br>
 <img src="public/ss.png">
 <br><br>
 
